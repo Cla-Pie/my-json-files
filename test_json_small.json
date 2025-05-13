@@ -9,5 +9,6 @@
 {"term": "antithrombotic strategies", "rgb": "rgb(102,181,18)"},
 {"term": "antithrombotic", "rgb": "rgb(255,204,255)"},
 {"term" : "one patient", "rgb": "rgb(255,0,255)"},
-{"term" : "patient", "rgb": "rgb(255,204,255)"}
+{"term" : "patient", "rgb": "rgb(255,204,255)"},
+{"term" : "overdose", "rgb": "rgb(255,204,255)"}
 ]
